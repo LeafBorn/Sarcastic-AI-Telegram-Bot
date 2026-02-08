@@ -14,7 +14,7 @@ Chat with an intelligent assistant powered by Gemini AI and built with Aiogram. 
 🛠 Easy to extend with new commands and features
 
 📦 Clean and modular project structure
-
+```
 gemini-telegram-bot/
 │
 ├── bot.py                # Main bot entry point
@@ -26,6 +26,7 @@ gemini-telegram-bot/
 ├── requirements.txt      # Python dependencies
 ├── .env.example          # Environment variable template
 └── README.md             # Project documentation
+```
 
 
 🧠 How It Works
